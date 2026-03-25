@@ -57,6 +57,8 @@ Tasks are then sorted based on this score. This is similar to how AI systems use
 ---
 
 -> Screenshot
+
+
 <img width="572" height="638" alt="image" src="https://github.com/user-attachments/assets/f265a6a0-42b8-4def-ad45-cec9c3444c4e" />
 
 ---
