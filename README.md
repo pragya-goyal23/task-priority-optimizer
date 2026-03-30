@@ -1,16 +1,16 @@
-Smart Task Priority Optimizer
+# Smart Task Priority Optimizer
 
 A Python program that helps prioritize tasks based on priority, deadline and time required. It suggests an order in which tasks should be completed.
 
 ---
 
--> Overview
+## Overview
 
 When multiple tasks are pending, it becomes difficult to decide what to do first. This program takes basic task details and generates a recommended order based on importance and urgency.
 
 ---
 
--> Features
+## Features
 
 - Add multiple tasks  
 - Set priority (High / Medium / Low)  
@@ -20,7 +20,7 @@ When multiple tasks are pending, it becomes difficult to decide what to do first
 
 ---
 
--> AI Concept Used
+## AI Concept Used
 
 The system uses a simple heuristic-based approach.  
 Each task is given a score based on:
@@ -32,14 +32,14 @@ Tasks are then sorted based on this score. This is similar to how AI systems use
 
 ---
 
--> Technologies Used
+## Technologies Used
 
 - Python  
 - No external libraries
   
 ---
 
--> How to Run
+## How to Run
 
 1. Make sure Python is installed  
 2. Open terminal in the project folder  
@@ -48,7 +48,7 @@ python main.py
 
 ---
 
--> Testing
+## Testing
 
 - Add tasks with different priorities  
 - Use different deadlines  
@@ -57,20 +57,20 @@ python main.py
 
 ---
 
--> Screenshot
+## Screenshot
 
 
 <img width="572" height="638" alt="image" src="https://github.com/user-attachments/assets/f265a6a0-42b8-4def-ad45-cec9c3444c4e" />
 
 ---
 
--> Project Structure
+## Project Structure
 
 - main.py → main program  
 - README.md → project description  
 
 ---
 
--> Author
+## Author
 
 Pragya Goyal
