@@ -41,9 +41,10 @@ Tasks are then sorted based on this score. This is similar to how AI systems use
 
 -> How to Run
 
-1. Open the file in any Python IDE (like PyCharm)  
-2. Run the program  
-3. Enter task details when prompted  
+1. Make sure Python is installed  
+2. Open terminal in the project folder  
+3. Run the program using:
+python main.py
 
 ---
 
