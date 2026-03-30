@@ -35,7 +35,7 @@ for task in tasks:
     print(str(count) + ". " + task['name'])
     print(f"   Score: {task['score']} | Priority: {task['priority']} | Deadline: {task['deadline']} days")
     if task["score"] > 30:
-        print("   → High priority due to urgency and importance")
+        print("   → High priority task")
     elif task["score"] > 16:
         print("   → Moderate priority task")
     else:
